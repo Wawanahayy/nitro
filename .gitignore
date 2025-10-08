@@ -1,0 +1,8 @@
+.env
+.env.*
+sessions/
+privatekeys.txt
+proxy.txt
+*.cookie
+node_modules/
+dist/
